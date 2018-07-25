@@ -1,0 +1,12 @@
+what data structure would you use for BFS and DFS?
+A graph (tree could be valid answer since tree is a type of graph)
+
+Steps for DFS on a graph 
+
+Start at first vertex 
+put in stack 
+vist neighbors in abc order 
+for each neighbor: 
+put vertex in stack 
+visit neighbor process continues 
+only put unvisited things in stack 
