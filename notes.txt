@@ -10,3 +10,13 @@ for each neighbor:
 put vertex in stack 
 visit neighbor process continues 
 only put unvisited things in stack 
+
+whwat happens when you type in www.google.com and hit enter?
+
+browser checks the cache for dns record to find IP adress of site 
+if url not in cache, dns server does dns query for site 
+brower initiates tcp connection w/ server 
+brower senss http request to web server 
+server handles request and sends back response 
+server sens http response 
+brower displays html content 
