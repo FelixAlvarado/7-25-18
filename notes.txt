@@ -20,3 +20,9 @@ brower senss http request to web server
 server handles request and sends back response 
 server sens http response 
 brower displays html content 
+
+difference between memory heap and call stack in javaScript 
+memory in a memory heap isn't allocated and released in order like in a call stack. It's based on when a function returns. like when an asynchronousrequest finishes.
+
+what is one problem with programming languaes that are fully single-threaded?
+a single operation can only be executed at one time
